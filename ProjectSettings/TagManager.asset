@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Platform
+  - Trap
+  - Jumpad
+  - Slider
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - DiffLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 887439515
+    locked: 1
+  - name: mountains
+    uniqueID: 2127218323
+    locked: 1
+  - name: treeline
+    uniqueID: 3547182795
+    locked: 0
+  - name: foreground
+    uniqueID: 4166258069
+    locked: 0
+  - name: player
+    uniqueID: 3787272273
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
